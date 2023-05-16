@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <h1>Mai Tai Cocktail</h1>
+    <img src="https://www.allrecipes.com/thmb/esJyCQ6a1-Ir4sLXQ0jOSBXXdAg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/5185534-e65d27fa50ef4d7195c872e605677974.jpg">
+    <h2>Description</h2>
+    <p>This variation on the classic mai tai combines three kinds of rum with orgeat, orange liqueur, and lime juice for a taste of the Pacific islands!</p>
+    <ul>Ingredients
+        <li>1 cup ice</li>
+        <li>1 fluid ounce light rum</li>
+        <li>1 fluid ounce gold rum</li>
+        <li>1/2 fluid ounce orange Curacao liqueur</li>
+        <li>1/2 fluid ounce orgeat syrup</li>
+        <li>1/2 fluid ounce lime juice</li>
+        <li>1 cup ice</li>
+        <li>1 fluid ounce dark rum</li>
+        <li>1 wedge fresh pineapple</li>
+        <li>1 maraschino cherry</li>
+    </ul>
+    <ol>Steps
+        <li>Fill an old-fashioned glass with 1 cup crushed ice. Set aside in the freezer.</li>
+        <li>Combine light rum, gold rum, orange Curacao, orgeat, and lime juice in a cocktail shaker. Add 1 cup ice, cover and shake until chilled. Strain into the chilled old-fashioned glass. Top with dark rum.</li>
+        <li>Garnish with a wedge of pineapple and a maraschino cherry.</li>
+    </ol>
+</body>
+</html>
